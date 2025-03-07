@@ -2,7 +2,7 @@
 .env
 .secretstomltoml
 
-
+.secretstomltoml.secret
 # Python
 __pycache__/
 *.py[cod]
